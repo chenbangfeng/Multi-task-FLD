@@ -1,0 +1,5 @@
+*.pyc
+*.ckpt
+*.ckpt.meta
+checkpoint
+*.local
